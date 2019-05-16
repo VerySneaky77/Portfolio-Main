@@ -1,0 +1,41 @@
+body {
+  background: url("../images/concrete_seamless.png");
+}
+
+/* general */
+
+.border-extend-3 {
+  border-bottom-width: 3px !important;
+}
+
+/* header */
+
+#masthead {
+  color: #ffffff;
+  border-bottom-width: 2px !important;
+}
+
+#logo {
+  color: #ffffff;
+}
+
+nav a {
+  color: #999;
+}
+
+/* footer */
+
+footer {
+  color: #cccccc;
+  background: #666666;
+}
+
+.border-extend-2 {
+  border-bottom-width: 2px !important;
+}
+
+/* portfolio page */
+
+.work img {
+  opacity: 0.8;
+}
